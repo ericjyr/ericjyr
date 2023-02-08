@@ -2,6 +2,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/eric-rebadona-7aa291229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" class="icon" height="40" width="43"/></a>
+<a href="https://www.linkedin.com/in/eric-rebadona-7aa291229/" target="blank"><img align="center" src="linkedin.png" alt="" class="icon" height="45" width="45"/></a>
 
 </p>
