@@ -29,29 +29,24 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
-<br />
 
 ---
 
-# Projects:
+## Projects
 
 <table>
 <tr>
    <td width="50%">
       <h3 align="center" color="white">Fact Flick</h3>
       <div align="center">  
-         <a href='https://github.com/ericjyr/fact-flick' target=_"blank">
+         <a href='https://ericjyr.github.io/fact-flick/' target=_"blank">
             <img src="https://github.com/ericjyr/ericjyr/assets/87771108/b4615266-d0ed-4073-9133-5094dce4b1b8" alt="Fact Flick" width="100%"/>
          </a>
          <br>
          <br>
          <p>
-            <a href="https://github.com/ericjyr/fact-flick" target="_blank">
-               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://ericjyr.github.io/fact-flick/" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
-            </a>
+            <a href="https://github.com/ericjyr/fact-flick" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
+            <a href="https://ericjyr.github.io/fact-flick/" target="_blank"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a>
          </p>
          <p>Fact Flick is a one-day challenge React app delivering intriguing facts with a Tinder-style swiping experience. Explore a world of fascinating information with a simple swipe!</p>
         <p>Technologies used: <em>ReactJS, Bootstrap, CSS3, HTML5</em></p>
@@ -66,12 +61,8 @@
          <br>
          <br>
          <p>
-            <a href="https://github.com/ericjyr/stock-tracker" target="_blank">
-               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://ericjyr.github.io/stock-tracker/" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
-            </a>
+            <a href="https://github.com/ericjyr/stock-tracker" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>
+            <a href="https://ericjyr.github.io/stock-tracker/" target="_blank"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a>
          </p>
          <p>StockSavvy provides users with stock data, StockSavvy integrates seamlessly with the Polygon.io REST API. Leveraging the power of React.js, the application ensures a smooth and interactive experience, enabling users to explore and analyze stock information effortlessly.</p>
          <p>Technologies used: <em>ReactJS, Bootstrap, CSS3, HTML5</em></p>
@@ -88,9 +79,7 @@
          <br>
          <br>
          <p>
-            <a href="https://github.com/ericjyr/Cinematch" target="_blank">
-               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
+            <a href="https://github.com/ericjyr/Cinematch" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
          </p>
          <p>CineMatch revolutionizes movie selection by gamifying the process, presenting curated movie lists in an interactive, Tinder-like interface. I spearheaded the development of the backend, implemented robust security measures, and established API connections to the React frontend.</p>
       <p>Technologies used: <em>ReactJS, Bootstrap, CSS3, HTML5, Java, Spring Boot, RESTful API</em></p>
@@ -99,9 +88,7 @@
 <td width="50%">
       <h3 align="center" color="white">Bow Wow</h3>
       <div align="center">  
-         <a href='' target=_"blank">
             <img src="https://github.com/ericjyr/ericjyr/assets/87771108/d70d2389-cdd0-4607-8eff-b3ca0655b0fe" alt="Bow Wow" width="100%"/>
-         </a>
          <br>
          <br>
           <p>The Bow Wow web application is a dedicated platform designed to streamline the pet adoption process.</p>
@@ -120,12 +107,8 @@
          <br>
          <br>
          <p>
-            <a href="https://github.com/ericjyr/ericjyr.github.io" target="_blank">
-               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://ericjyr.github.io/" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
-            </a>
+            <a href="https://github.com/ericjyr/ericjyr.github.io" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
+            <a href="https://ericjyr.github.io/" target="_blank"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a>
          </p>
          <p>Explore my software development portfolio, highlighting my educational background and in-depth project experiences across various technologies. Get insights into my skillset</p>
          <p>Technologies used: <em>ReactJS, Bootstrap, CSS3, HTML5</em></p>
