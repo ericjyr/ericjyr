@@ -13,6 +13,7 @@
 ### Blogs/Portfolio:
 
 <a href="https://ericjyr.github.io/" target="blank"><img align="center" src="github.png" alt="Github Pages" class="icon" height="49" width="49"/></a>
+<a href="https://ericjyr.github.io/ericjyr-blog-ruby" target="blank"><img align="center" src="https://github.com/ericjyr/ericjyr/assets/87771108/16606095-e70a-4454-9db8-c93fc9f5fa10" alt="Jekyll Blog" class="icon" height="42" width="42"/></a>
 
 ### Languages and Tools:
 
