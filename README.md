@@ -40,7 +40,7 @@
       <h3 align="center" color="white">Fact Flick</h3>
       <div align="center">  
          <a href='https://ericjyr.github.io/fact-flick/' target=_"blank">
-            <img src="https://github.com/ericjyr/ericjyr/assets/87771108/b4615266-d0ed-4073-9133-5094dce4b1b8" alt="Fact Flick" width="100%"/>
+            <img src="https://github.com/ericjyr/ericjyr/assets/87771108/6e134a67-b523-49aa-9934-92ebc6b81eb4" alt="Fact Flick" width="100%"/>
          </a>
          <br>
          <br>
@@ -56,7 +56,7 @@
       <h3 align="center" color="white">StockSavvy</h3>
       <div align="center">  
          <a href="https://ericjyr.github.io/stock-tracker/" target=_"blank">
-            <img src="https://github.com/ericjyr/ericjyr/assets/87771108/e19cec67-695b-4121-b241-861f1b92d270" alt="StockSavvy" width="100%"/>
+            <img src="https://github.com/ericjyr/ericjyr/assets/87771108/4fb939b9-b0b9-4f04-9b82-32a9116fb186" alt="StockSavvy" width="100%"/>
          </a>
          <br>
          <br>
@@ -112,6 +112,22 @@
          </p>
          <p>Explore my software development portfolio, highlighting my educational background and in-depth project experiences across various technologies. Get insights into my skillset</p>
          <p>Technologies used: <em>ReactJS, Bootstrap, CSS3, HTML5</em></p>
+      </div>
+   </td>
+       <td width="50%">
+      <h3 align="center" color="white">Jekyll Blog</h3>
+      <div align="center">  
+         <a href='https://ericjyr.github.io/ericjyr-blog-ruby/' target=_"blank">
+            <img src="https://github.com/ericjyr/ericjyr/assets/87771108/21180d0c-ac79-45dc-9736-884c264350f7" alt="Portfolio" width="100%"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/ericjyr/ericjyr-blog-ruby" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
+            <a href="https://ericjyr.github.io/ericjyr-blog-ruby/" target="_blank"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a>
+         </p>
+         <p>This project is a Jekyll-powered blog utilizing the Chirpy template, offering a dynamic and customizable platform for content creation. The blogs curated here will include insightful discussions on emerging trends, providing readers with valuable perspectives on the latest developments.</p>
+         <p>Technologies used: <em>Ruby, Markdown</em></p>
       </div>
    </td>
    </tr>
